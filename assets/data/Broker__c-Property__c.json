@@ -18,30 +18,6 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef1"
                         },
-                        "Address__c": "121 Harborwalk Drive",
-                        "Assessed_Value__c": 306000,
-                        "Baths__c": 3,
-                        "Beds__c": 3,
-                        "City__c": "Boston",
-                        "Date_Listed__c": "2021-08-03",
-                        "Description__c": "Anim iPhone eiusmod non normcore, ugh officia. Blog ullamco stumptown, microdosing put a bird on it nihil farm-to-table pour-over squid chillwave seitan activated charcoal. Offal nesciunt lyft odio banjo. Pabst assumenda biodiesel, iPhone ethical veniam paleo in kale chips art party vaporware butcher.",
-                        "Location__Longitude__s": -71.049327,
-                        "Location__Latitude__s": 42.35695,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09.jpg",
-                        "Price__c": 450000,
-                        "Name": "121 Harborwalk Drive",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Modern",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09sq.jpg",
-                        "Title__c": "Seaport District Retreat",
-                        "Zip__c": "02420"
-                    },
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef2"
-                        },
                         "Address__c": "95 Gloucester St",
                         "Assessed_Value__c": 572700,
                         "Baths__c": 3,
@@ -64,7 +40,7 @@
                     {
                         "attributes": {
                             "type": "Property__c",
-                            "referenceId": "Property__cRef3"
+                            "referenceId": "Property__cRef2"
                         },
                         "Address__c": "18 Henry St",
                         "Assessed_Value__c": 731250,
@@ -84,6 +60,30 @@
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house01sq.jpg",
                         "Title__c": "Stunning Colonial",
                         "Zip__c": "01742"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef3"
+                        },
+                        "Address__c": "121 Harborwalk Drive",
+                        "Assessed_Value__c": 306000,
+                        "Baths__c": 3,
+                        "Beds__c": 3,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2021-08-03",
+                        "Description__c": "Anim iPhone eiusmod non normcore, ugh officia. Blog ullamco stumptown, microdosing put a bird on it nihil farm-to-table pour-over squid chillwave seitan activated charcoal. Offal nesciunt lyft odio banjo. Pabst assumenda biodiesel, iPhone ethical veniam paleo in kale chips art party vaporware butcher.",
+                        "Location__Longitude__s": -71.049327,
+                        "Location__Latitude__s": 42.35695,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09.jpg",
+                        "Price__c": 450000,
+                        "Name": "121 Harborwalk Drive",
+                        "State__c": "MA",
+                        "Status__c": "Available",
+                        "Tags__c": "Modern",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09sq.jpg",
+                        "Title__c": "Seaport District Retreat",
+                        "Zip__c": "02420"
                     }
                 ]
             }
@@ -105,30 +105,6 @@
                         "attributes": {
                             "type": "Property__c",
                             "referenceId": "Property__cRef4"
-                        },
-                        "Address__c": "503 Park Drive",
-                        "Assessed_Value__c": 526500,
-                        "Baths__c": 2,
-                        "Beds__c": 2,
-                        "City__c": "Boston",
-                        "Date_Listed__c": "2021-07-04",
-                        "Description__c": "Cray kogi small batch edison bulb. Ugh you probably haven't heard of them cold-pressed art party. Nostrud you probably haven't heard of them waistcoat poke cardigan.",
-                        "Location__Longitude__s": -71.105475,
-                        "Location__Latitude__s": 42.3474,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08.jpg",
-                        "Price__c": 650000,
-                        "Name": "503 Park Drive",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Modern",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08sq.jpg",
-                        "Title__c": "City Living",
-                        "Zip__c": "02420"
-                    },
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef5"
                         },
                         "Address__c": "145 Commonwealth Ave",
                         "Assessed_Value__c": 633750,
@@ -152,7 +128,7 @@
                     {
                         "attributes": {
                             "type": "Property__c",
-                            "referenceId": "Property__cRef6"
+                            "referenceId": "Property__cRef5"
                         },
                         "Address__c": "24 Pearl St",
                         "Assessed_Value__c": 780000,
@@ -171,6 +147,30 @@
                         "Tags__c": "Victorian",
                         "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house02sq.jpg",
                         "Title__c": "Ultimate Sophistication",
+                        "Zip__c": "02420"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef6"
+                        },
+                        "Address__c": "503 Park Drive",
+                        "Assessed_Value__c": 526500,
+                        "Baths__c": 2,
+                        "Beds__c": 2,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2021-07-04",
+                        "Description__c": "Cray kogi small batch edison bulb. Ugh you probably haven't heard of them cold-pressed art party. Nostrud you probably haven't heard of them waistcoat poke cardigan.",
+                        "Location__Longitude__s": -71.105475,
+                        "Location__Latitude__s": 42.3474,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08.jpg",
+                        "Price__c": 650000,
+                        "Name": "503 Park Drive",
+                        "State__c": "MA",
+                        "Status__c": "Available",
+                        "Tags__c": "Modern",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08sq.jpg",
+                        "Title__c": "City Living",
                         "Zip__c": "02420"
                     }
                 ]
